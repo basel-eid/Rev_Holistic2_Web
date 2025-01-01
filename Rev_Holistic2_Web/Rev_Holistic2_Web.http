@@ -1,0 +1,6 @@
+@Rev_Holistic2_Web_HostAddress = http://localhost:5039
+
+GET {{Rev_Holistic2_Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
